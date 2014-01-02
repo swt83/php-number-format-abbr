@@ -1,0 +1,21 @@
+{
+    "name": "travis/number_format_abbr",
+    "description": "A PHP function for printing abbreviated numbers.",
+    "homepage": "https://github.com/swt83/php-number-format-abbr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Scott Travis",
+            "email": "scott.w.travis@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "src/number_format_abbr.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
